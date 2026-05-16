@@ -8,5 +8,5 @@ Actuellement en enseignement supérieur pour préparer un diplôme d'Administrat
 ### Technologies employées :
 [![My Skills](https://skillicons.dev/icons?i=docker,git,mysql,)](https://skillicons.dev)
 
-### Logiciels utilisés :
-[![My Skills](https://skillicons.dev/icons?i=atom,obsidian,)](https://skillicons.dev)
+### Logiciels/OS utilisés :
+[![My Skills](https://skillicons.dev/icons?i=atom,obsidian,windows,debian,ubuntu,kali,)](https://skillicons.dev)
