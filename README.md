@@ -1,4 +1,4 @@
-# Bonjour👋, je suis Landry Doriot.
+# Bonjour👋,
 
 Actuellement en enseignement supérieur pour préparer un diplôme d'Administrateur Systèmes et Réseaux.
 
