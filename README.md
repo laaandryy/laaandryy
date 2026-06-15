@@ -1,6 +1,6 @@
 # Bonjour👋,
 
-Actuellement en enseignement supérieur pour préparer un diplôme d'Administrateur Systèmes et Réseaux.
+Actuellement en enseignement supérieur pour préparer un diplôme en DevOps.
 
 ### Langages maitrisés :
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,powershell,)](https://skillicons.dev)
